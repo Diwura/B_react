@@ -1,0 +1,6 @@
+[submodule "B_react-weather"]
+	path = B_react-weather
+	url = https://github.com/Diwura/B_react-weather
+[submodule "B_project-pictures"]
+	path = B_project-pictures
+	url = https://github.com/Diwura/B_project-pictures
