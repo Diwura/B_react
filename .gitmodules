@@ -4,3 +4,9 @@
 [submodule "B_project-pictures"]
 	path = B_project-pictures
 	url = https://github.com/Diwura/B_project-pictures
+[submodule "B_project-video"]
+	path = B_project-video
+	url = https://github.com/Diwura/B_project-video
+[submodule "Widgets"]
+	path = Widgets
+	url = https://www.github.com/Diwura/Widgets
